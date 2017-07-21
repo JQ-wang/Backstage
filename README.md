@@ -1,6 +1,6 @@
-# vue-music
+# Backstage
 
-> 音乐App播放器
+> 使用vue-cli构建的vue.js框架，引用element-ui组件，制作简单的后台登录
 
 ## Build Setup
 
