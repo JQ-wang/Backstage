@@ -13,6 +13,9 @@
                 </transition>
             </div>
         </div>
+        <div>
+
+        </div>
     </div>
 
 </template>
@@ -20,6 +23,7 @@
 <script>
   import Header from './header.vue'
   import LeftMenu from './leftmenu.vue'
+
   export default {
     data () {
       return {
@@ -41,7 +45,8 @@
         top: 70px;
         width: 85%;
     }
-    .head{
+
+    .head {
         position: fixed;
         width: 100%;
         height: 60px;
