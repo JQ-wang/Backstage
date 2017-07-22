@@ -6,7 +6,7 @@
             <el-menu-item index="/home/basetable"><span class="el-icon-date"></span>基础表格</el-menu-item>
             <el-menu-item index="/home/charts"><span class="el-icon-information"></span>图表</el-menu-item>
             <el-menu-item index="/home/register"><span class="el-icon-edit"></span>注册</el-menu-item>
-            <el-menu-item index="/home/mainActive"><span class="el-icon-menu"></span>主页</el-menu-item>
+            <!--<el-menu-item index="/home/mainActive"><span class="el-icon-menu"></span>主页</el-menu-item>-->
         </el-menu>
     </div>
 </template>
